@@ -1,8 +1,8 @@
-# Yuxi-3D-Unity-BallRunGameAdvanced
+# 3D-Unity-BallRunGameAdvanced
 
 ## Overview
 
-**Yuxi-3D-Unity-BallRunGameAdvanced** builds upon the foundation of **Yuxi-3D-Unity-BallRunGame** by introducing more complex gameplay mechanics, improved controls, and enhanced visuals. This advanced version features more sophisticated scripts for player movement, camera control, UI interaction, and obstacle management. The result is a richer, more dynamic, and more engaging 3D ball-rolling experience.
+**3D-Unity-BallRunGameAdvanced** builds upon the foundation of **3D-Unity-BallRunGame** by introducing more complex gameplay mechanics, improved controls, and enhanced visuals. This advanced version features more sophisticated scripts for player movement, camera control, UI interaction, and obstacle management. The result is a richer, more dynamic, and more engaging 3D ball-rolling experience.
 
 ## Key Differences from the Original
 
@@ -38,7 +38,7 @@
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/yourusername/Yuxi-3D-Unity-BallRunGameAdvanced.git
+   git clone https://github.com/yourusername/3D-Unity-BallRunGameAdvanced.git
 2. **Open in Unity**
 Open Unity Hub and select the `Yuxi-3D-BallRunGameAdvance.exe` folder as the project.
 3. **Run the Game in the Editor**
